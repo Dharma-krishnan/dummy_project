@@ -1,4 +1,3 @@
 <h1>TESTING :} </h1>
-
-<img src="../../../Downloads/a 3d objects with computer screen with programming (1).jpg"></img>
-
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+<img title="a title" alt="Alt text" src="/images/boo.svg">
